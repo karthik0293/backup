@@ -1,0 +1,6 @@
+Started by user [8mha:////4OhvnrQDuVvA5sN10KrM5lvUVDGC1P2/sLxuTjZTZvCLAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL97MSikozMbACIpkGuwgAAAA==[0mkarthik
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/deployjava
+[deployjava] $ /bin/sh -xe /tmp/jenkins10662456092807861240.sh
++ cp -r /var/lib/jenkins/workspace/buildjava/target/java-tomcat-maven-example.war /var/lib/tomcat9/webapps
+Finished: SUCCESS

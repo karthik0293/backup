@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4HZaftmt7LxOvWkWF0oCY/3Eq5FHHNcFwrtn0/bTCgE7AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP2U1IKc/EqwaQDWQnrixQAAAA==[0mdeployjava" build number [8mha:////4AuL62OrLapnGh1CIVaa7nLEK7+ComPpAhZ+TNpidFL0AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkH9rPwk/ZTUgpz8SrBppgB5G11axgAAAA==[0m5
+originally caused by:
+ Started by upstream project "[8mha:////4AuiVSvV1l7oIz+SsUS2/3M7JBg6pxRX3Rq1coRzr4gpAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP2k0sycFLBhAJ+y69PEAAAA[0mbuildjava" build number [8mha:////4Ny24m+Z7ogi6MtRK2O9IVvapXOPM/INM8zzXZmJMnRPAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwk/aTSzJwUsGEmAEUC3d/FAAAA[0m4
+ originally caused by:
+  Started by GitHub push by karthik0293
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/testjava
+[testjava] $ /bin/sh -xe /tmp/jenkins16604881340010166774.sh
++ echo build is successfull
+build is successfull
+Finished: SUCCESS
